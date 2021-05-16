@@ -1,2 +1,0 @@
-# CBCGit
-Columbia Cybersecurity Bootcamp
